@@ -10,5 +10,5 @@ Good luck!
 ### Guidelines
 
 * **Don't change the `div` rules**!
-* DO make rules for #first, #second#, #third, and #fourth.
+* _Do_ make rules for #first, #second, #third, and #fourth.
 * Don't freak out about making it pixel-perfect. Not the point here! Don't kill yourself measuring within a few pixels. Close enough is close enough.
