@@ -10,8 +10,8 @@ Good luck!
 
 ## Before
 
-
+<img src="start.png" height="350px"/>
 
 ## After
 
-<img src="goal.png"/>
+<img src="goal.png" height="750px"/>
