@@ -1,4 +1,4 @@
-# Box-Boxer
+# Box Boxer
 
 All of the world is boxes. It's boxes all the way down. At least on the web.
 
