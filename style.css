@@ -5,8 +5,23 @@ div {
     border: 1px solid black;
     margin-left: 10px;
     background-clip: content-box;
-    padding-left: 60px;
-    padding-right: 50px;
+    
   }
   
-  
+  #first{
+  padding: 40px;
+    margin-bottom: 50px
+  }
+  #second{
+    padding 40px
+    margin-bottom: 20px
+    ;
+  }
+  #third{
+    padding: 100px;
+    margin: 10px;
+  }
+  #fourth{
+    padding: 15px;
+    margin: 20px;
+  }
